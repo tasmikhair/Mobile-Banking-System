@@ -1,21 +1,9 @@
 # SafePay
 A Mobile Banking System for Smart Phone Users
 ## Table of Contents
-1. [General Info](#general-info)
-2. [Technologies](#technologies)
-3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
+1. [Proposed System](proposed-system)
 
-## Table of Contents
-<a name="general-info"></a>
-### General Info
-## General Info
-***
-Write down general information about your project. It is a good idea to always put a project status in the readme file. This is where you can add it. 
-### Screenshot
-hereeeeeeeeeeeeeeeeee
-
+<a name="proposed-system"></a>
 ## Proposed System
 Mobile Banking System is a software which refers to money transfer system.
 It is used by peoples to manage the financial transactions. In this system
