@@ -2,7 +2,7 @@
 A Mobile Banking System for Smart Phone Users
 ## Table of Contents
 1. [Proposed System](#proposed-system)
-
+2. [Features](#features)
 <a name="proposed-system"></a>
 ## Proposed System
 Mobile Banking System is a software which refers to money transfer system.
@@ -17,6 +17,7 @@ and in a more efficient way as compared to traditional bank management
 system which are not automated. Mobile Banking System helps user to access
 his bank account through their mobile.
 
+<a name="features"></a>
 # Features
 1. Multiple users can use SafePay.
 2. Users can register & login to their perspective account.
