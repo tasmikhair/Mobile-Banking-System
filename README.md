@@ -1,5 +1,5 @@
-# Mobile-Banking-System
-A Mobile Banking System built with C++
+# SafePay
+A Mobile Banking System for Smart Phone Users
 
 # Proposed System
 Mobile Banking System is a software which refers to money transfer system.
