@@ -1,8 +1,10 @@
 # SafePay
 A Mobile Banking System for Smart Phone Users
 ## Table of Contents
-1. [Proposed System](#proposed-system)
-2. [Features](#features)
+* [Proposed System](#proposed-system)
+* [Features](#features)
+* [Design](#design)
+   
 <a name="proposed-system"></a>
 ## Proposed System
 Mobile Banking System is a software which refers to money transfer system.
@@ -32,6 +34,7 @@ his bank account through their mobile.
 11. Users can see list of the people who use SafePay.
 12. Users can add SafePay users to their friend list.
 
+<a name="design"></a>
 # Design
 
 * ## Welcome Page
