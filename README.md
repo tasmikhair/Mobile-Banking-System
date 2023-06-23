@@ -26,4 +26,4 @@ his bank account through their mobile.
 9. Users can change their account password if needed.
 10. Users can set their details to their perspective account(i.e. Name, Gender, Nationality, Birth date).
 11. Users can see list of the people who use SafePay.
-12. 12. Users can add SafePay users to their friend list.
+12. Users can add SafePay users to their friend list.
