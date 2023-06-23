@@ -1,7 +1,7 @@
 # SafePay
 A Mobile Banking System for Smart Phone Users
 ## Table of Contents
-1. [Proposed System](proposed-system)
+1. [Proposed System](#proposed-system)
 
 <a name="proposed-system"></a>
 ## Proposed System
